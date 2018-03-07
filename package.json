@@ -1,0 +1,23 @@
+{
+  "name": "laxmicoin",
+  "version": "1.0.0",
+  "description": "Package to develop laxmi coin payments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vihangpatel/laxmicoin.git"
+  },
+  "keywords": [
+    "Laxmi",
+    "Coin"
+  ],
+  "author": "Vihang Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vihangpatel/laxmicoin/issues"
+  },
+  "homepage": "https://github.com/vihangpatel/laxmicoin#readme"
+}
